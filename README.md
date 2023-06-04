@@ -1,4 +1,4 @@
-# template-springboot
+# Messaging-Kafka-Consumer
 Sample Gradle Spring Boot Rest API with Junit 5. 
 
 ## Workspace setup
